@@ -2,7 +2,9 @@
 
 I'm Gabriel de Campos 🎃 
 
-Graduated in Biomedical Informatics at University of São Paulo (USP) and for my thesis, I built a pipeline for Bioinformatics in metavirome analysis at the Blood Center of Ribeirão Preto-SP (Brazil)
+Master's Degree Student at University of São Paulo - Brazil
+
+Biomedical Informatic at University of São Paulo (USP). For my thesis, I built a pipeline for Bioinformatics in metavirome analysis at the Blood Center of Ribeirão Preto-SP (Brazil)
 
 I a former member of InfobioJr's Quality Team
 
